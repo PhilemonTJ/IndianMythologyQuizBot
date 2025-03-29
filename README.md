@@ -27,11 +27,11 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/PhilemonTJ/IndianMythologyQuizBot.git
+   git clone https://github.com/PhilemonTJ/VidyaQuest.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd IndianMythologyQuizBot
+   cd VidyaQuest
    ```
 3. **Install Required Libraries:**
    If a `requirements.txt` file is available, install dependencies using:
@@ -47,7 +47,7 @@ Ensure you have the following installed:
 Run the chatbot script using Python:
 
 ```bash
-python IndianMythQuizBot.py
+python VidyaQuest.py
 ```
 
 Follow the on-screen prompts to answer the quiz questions.
