@@ -3,7 +3,8 @@ import random
 import google.generativeai as gemini
 
 # Configure Gemini API
-gemini.configure(api_key="AIzaSyBSsdS719axuCPO-EtU0IEg2BB1v9gHIg0")
+apiKey #your Gemini API key
+gemini.configure(api_key=apiKey)
 model = gemini.GenerativeModel('gemini-1.5-pro')
 
 fact = None
