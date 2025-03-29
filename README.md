@@ -1,8 +1,8 @@
-# IndianMythologyQuizBot
+# Indian Mythology Quiz Bot
 
 ## 📜 Overview
 
-IndianMythologyQuizBot is a Python-based chatbot designed to test users' knowledge of Indian mythology. It presents a series of questions and evaluates the user's responses, providing an engaging and educational experience.
+Indian Mythology Quiz Bot is a Python-based chatbot designed to test users' knowledge of Indian mythology. It presents a series of questions and evaluates the user's responses, providing an engaging and educational experience.
 
 ---
 
