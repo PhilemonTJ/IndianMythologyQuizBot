@@ -24,7 +24,7 @@ st.markdown(
 topics = ["Ramayana", "Mahabharata", "Vedas", "Puranas", "Upanishads", "Random"]
 
 # UI Layout
-st.title("Indian Mythology Quiz Bot")
+st.title("VidyaQuest - Indian Mythology Quiz Bot")
 st.sidebar.title("Quiz Settings")
 
 # Choose Topic
